@@ -1,9 +1,9 @@
-<h1> BILECTAL </h1>
-
+<h1 style="color: purple;"> BILECTAL </h1>
+  
 - 👋 Hi, I’m @Bilectal
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning Front End Development
-- 💞️ I’m looking to collaborate on N/A
+- 👀 I’m interested in Front End Development;
+- 🌱 I’m currently learning Front End Development;
+- 💞️ I’m looking to collaborate on N/A;
 - 📫 How to reach me Discord: Bilectal#5898 ; Twitter: @hedenbeeri ;
 
 <!---
